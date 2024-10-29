@@ -1,0 +1,15 @@
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfoInputs.cache
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfo.cs
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.sourcelink.json
+C:\C#_Framework\folder\Kalkulator\Kalkulator\bin\Debug\net8.0\Kalkulator.exe
+C:\C#_Framework\folder\Kalkulator\Kalkulator\bin\Debug\net8.0\Kalkulator.deps.json
+C:\C#_Framework\folder\Kalkulator\Kalkulator\bin\Debug\net8.0\Kalkulator.runtimeconfig.json
+C:\C#_Framework\folder\Kalkulator\Kalkulator\bin\Debug\net8.0\Kalkulator.dll
+C:\C#_Framework\folder\Kalkulator\Kalkulator\bin\Debug\net8.0\Kalkulator.pdb
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.dll
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\refint\Kalkulator.dll
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.pdb
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\Kalkulator.genruntimeconfig.cache
+C:\C#_Framework\folder\Kalkulator\Kalkulator\obj\Debug\net8.0\ref\Kalkulator.dll
