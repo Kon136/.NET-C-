@@ -1,0 +1,15 @@
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\bin\Debug\net8.0\KalkulatorObiektowy.exe
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\bin\Debug\net8.0\KalkulatorObiektowy.deps.json
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\bin\Debug\net8.0\KalkulatorObiektowy.runtimeconfig.json
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\bin\Debug\net8.0\KalkulatorObiektowy.dll
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\bin\Debug\net8.0\KalkulatorObiektowy.pdb
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.AssemblyInfoInputs.cache
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.AssemblyInfo.cs
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.csproj.CoreCompileInputs.cache
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.sourcelink.json
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.dll
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\refint\KalkulatorObiektowy.dll
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.pdb
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\KalkulatorObiektowy.genruntimeconfig.cache
+C:\C#_Framework\folder\KalkulatorObiektowy\KalkulatorObiektowy\obj\Debug\net8.0\ref\KalkulatorObiektowy.dll
