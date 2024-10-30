@@ -1,0 +1,15 @@
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\bin\Debug\Kalkulator_graficzny.exe.config
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\bin\Debug\Kalkulator_graficzny.exe
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\bin\Debug\Kalkulator_graficzny.pdb
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.csproj.AssemblyReference.cache
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\MainWindow.g.cs
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\App.g.cs
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny_MarkupCompile.cache
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny_MarkupCompile.lref
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\MainWindow.baml
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.g.resources
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.Properties.Resources.resources
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.csproj.GenerateResource.cache
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.csproj.CoreCompileInputs.cache
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.exe
+C:\C#_Framework\folder\Graficzne\Kalkulator graficzny\Kalkulator_graficzny\Kalkulator_graficzny\obj\Debug\Kalkulator_graficzny.pdb
